@@ -1,0 +1,7 @@
+Connection Id: snowflake
+Schema: STAGE
+Login: sanso
+Account: vbojdgt-yg46492
+Password: Luquinhas12345
+Database: NOVADRIVE
+Warehouse: DEFAULT_WH
