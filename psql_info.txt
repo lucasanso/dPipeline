@@ -1,5 +1,0 @@
-host: 1259.223.187.110
-database: novadrive
-user: eltreadonly
-password: novadrive376A@
-port: 5432
